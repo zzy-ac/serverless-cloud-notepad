@@ -3,6 +3,6 @@ main = "src/index.js"
 compatibility_date = "2022-05-13"
 
 kv_namespaces = [
-  { binding = "NOTES", id = "<NOTES_KV_BINDING_ID>" },
-  { binding = "SHARE", id = "<SHARE_KV_BINDING_ID>" }
+  { binding = "NOTES", id = "47a2d0e65af54d6aa9b098b659f1294f" },
+  { binding = "SHARE", id = "880787d45845432f824c986e79674ab8" }
 ]
